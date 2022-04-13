@@ -4,7 +4,7 @@ public class FaridaFile001 {
 
         System.out.println("Hello Group 27 Hello");
 
-        // Today was fun class
-        // Making changes on Farida's file
+
+ 
     }
 }
